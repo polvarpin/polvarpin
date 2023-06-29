@@ -10,7 +10,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href='https://www.linkedin.com/in/muhammedemin-kacar/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 I am a versatilist and easily adapt to different hats (Full Stack Web\Forms\Services Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
->>>>>>> d9935732f17919934efb4975d8c4a5a7b58827ff
+
 <br/>
 <br/>
 
@@ -36,7 +36,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web\Forms\Serv
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/muhammedemin-kacar/)
 - 📚 &nbsp; When I am free, I like to learn new stuff, play with Smarthome stuff and RGB boards, and play Warezone with some friends. 
->>>>>>> d9935732f17919934efb4975d8c4a5a7b58827ff
+
 
 <br>
 
