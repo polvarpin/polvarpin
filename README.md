@@ -41,8 +41,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web\Forms\Serv
 
 <h2 align="center">🤝 Support</h2>
 
-<p align="center">🎀 Contributions (<a href="https://github.com/Koenkk/zigbee-herdsman-converters" title="Zigbee2mqtt Converters">Zigbee2mqtt Converters</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️ in Portugal</p>
