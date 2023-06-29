@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web\Forms\Serv
 - 🌱 &nbsp; I’m currently learning python; 
 - 👨🏻‍💻 &nbsp; Most of my projects are made for companies that I've been working for
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/davidferreira1986/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/muhammedemin-kacar/)
 - 📚 &nbsp; When I am free, I like to learn new stuff, play with Smarthome stuff and RGB boards, and play Warezone with some friends. 
 
 <br>
