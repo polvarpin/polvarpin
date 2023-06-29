@@ -43,7 +43,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web\Forms\Serv
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in Portugal</p>
+<p align="center">Made with ❤️ in Türkiye</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
