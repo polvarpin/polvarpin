@@ -7,13 +7,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 
 <img align="right" alt="GIF" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/techstack.gif" width="360px"/>
-<br>
-<br>
+
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🌱 &nbsp; I’m currently learning ; 
+
+- 🌱 &nbsp; I’m currently learning Machine Learning ; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/polvarpin)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
