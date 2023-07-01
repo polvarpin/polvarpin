@@ -3,9 +3,6 @@
 <a href='https://twitter.com/polva8/'><img align='left' alt="twitter" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/Twitter.svg" height='18px'/></a>
 <br/>
 
-=====
-
-
 ### I am a versatilist and easily adapt to different hats (Developer👨🏻‍💻, Networking 📱, ML Engineer 🤖 or beginner Game Developer🎮 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br/>
 <br/>
@@ -13,7 +10,6 @@
 <img align="right" alt="GIF" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/techstack.gif" width="360px"/>
 
 
-<br/>
 <br/>
 <br/>
 
