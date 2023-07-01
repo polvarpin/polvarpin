@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Muhammed Emin KAÇAR!
 <a href='https://www.linkedin.com/in/muhammedemin-kacar/'><img align='left' alt="linkedin" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/polva8/'><img align='left' alt="twitter" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/Twitter.svg" height='18px'/></a>
-
+<br/>
 I am a versatilist and easily adapt to different hats (Developer👨🏻‍💻, Networking 📱, ML Engineer 🤖 or beginner Game Developer🎮 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
