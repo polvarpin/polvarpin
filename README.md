@@ -13,8 +13,6 @@
 <br/>
 <br/>
 
-=====
-
 
 ### 🧐 More About Me:
 
@@ -23,7 +21,6 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/polvarpin/My-Projects)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
-<br>
 <br>
 <br>
 <br>
