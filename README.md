@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/muhammedemin-kacar/'><img align='left' alt="linkedin" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/polva8/'><img align='left' alt="twitter" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/Twitter.svg" height='18px'/></a>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Developer👨🏻‍💻, Networking 📱, ML Engineer 🤖 or beginner Game Developer🎮 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🎯 &nbsp; I’m currently focus Machine Learning and Network ; 
 - 🌱 &nbsp; I’m currently learning Machine Learning ; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/polvarpin)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/polvarpin/My-Projects)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
 <br>
