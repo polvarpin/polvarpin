@@ -8,13 +8,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <img align="right" alt="GIF" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/techstack.gif" width="360px"/>
 
-<br/>
+
 <br/>
 <br/>
 <br/>
 ### 🧐 More About Me:
 
-
+- 🎯 &nbsp; I’m currently focus Machine Learning and Network ; 
 - 🌱 &nbsp; I’m currently learning Machine Learning ; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/polvarpin)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
@@ -35,8 +35,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 
