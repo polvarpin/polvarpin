@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Muhammed Emin KAÇAR!
 <a href='https://www.linkedin.com/in/muhammedemin-kacar/'><img align='left' alt="linkedin" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/polva8/'><img align='left' alt="twitter" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/twitter.svg" height='18px'/></a>
+<a href='https://twitter.com/polva8/'><img align='left' alt="twitter" src="https://github.com/polvarpin/polvarpin/blob/main/Assets/Twitter.svg" height='18px'/></a>
 
 =======
 
